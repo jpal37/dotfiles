@@ -47,10 +47,13 @@ alias tma="tmux attach -t"
 alias tml="tmux ls"
 alias tmk="tmux kill-session -t"
 
-# Neovim
+# Tools
 alias vi="nvim"
+alias syk="sioyek"
+alias yz="yazi"
 
 # FLatpaks (Fedora)
 if [[ "$DISTRO" == "fedora" ]]; then
 	alias vlc="flatpak run org.videolan.VLC"
+	alias syk="flatpak run com.github.ahrm.sioyek"
 fi
