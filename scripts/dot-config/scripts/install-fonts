@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+mkdir -p ~/.local/share/fonts/JetBrainsMonoNF
+cd /tmp
+curl -LO https://github.com/ryanoasis/nerd-fonts/releases/latest/download/JetBrainsMono.zip
+unzip JetBrainsMono.zip -d ~/.local/share/fonts/JetBrainsMonoNF
+fc-cache -f

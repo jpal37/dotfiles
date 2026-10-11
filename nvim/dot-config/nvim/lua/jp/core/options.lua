@@ -11,10 +11,12 @@ opt.number = true
 opt.relativenumber = true
 
 -- Indents
-opt.tabstop = 4
-opt.shiftwidth = 4
-opt.smartindent = true
 opt.expandtab = true
+opt.shiftwidth = 2
+opt.tabstop = 2
+opt.softtabstop = -1
+opt.shiftround = true
+opt.autoindent = true
 
 -- Search
 opt.ignorecase = true

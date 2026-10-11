@@ -51,6 +51,7 @@ alias tmk="tmux kill-session -t"
 alias vi="nvim"
 alias syk="sioyek"
 alias yz="yazi"
+alias py="python"
 
 # FLatpaks (Fedora)
 if [[ "$DISTRO" == "fedora" ]]; then

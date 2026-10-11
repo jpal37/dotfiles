@@ -11,6 +11,7 @@ git
 info
 make
 neovim
+okular
 python
 ripgrep
 sioyek
@@ -20,7 +21,9 @@ starship
 stow
 tmux
 uv
+vlc
 wget
 yakuake
 yazi
 zoxide
+zen-browser
