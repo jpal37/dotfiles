@@ -1,17 +1,15 @@
 btop
-cmatrix
 curl
 eza
 fastfetch
 fd-find
+foot
 gcc
 gdb
-ghostty
 git
 info
 make
 neovim
-okular
 python
 ripgrep
 sioyek
@@ -19,6 +17,7 @@ sqlite
 ssh
 starship
 stow
+tldr
 tmux
 uv
 vlc
