@@ -6,9 +6,6 @@ opt.cursorline = true
 opt.signcolumn = "yes"
 opt.scrolloff = 7
 
--- Colorscheme
-vim.cmd.colorscheme("aeternal")
-
 -- Line Nums
 opt.number = true
 opt.relativenumber = true

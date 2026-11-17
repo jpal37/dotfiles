@@ -8,6 +8,9 @@ require("jp.core.keymaps")
 require("jp.core.commands")
 require("jp.core.autocmds")
 
+-- Theme
+require("jp.theme.aeternal").setup()
+
 -- Providers
 vim.g.loaded_perl_provider = 0
 vim.g.loaded_node_provider = 0
